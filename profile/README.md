@@ -5,7 +5,7 @@
 Name | About | Repo | Cite
 ---- | ----- | ---- | ----
 🐇 RABBITS | Evaluates performance differences in medical benchmarks after swapping brand and generic drug names. | [RABBITS](https://huggingface.co/spaces/AIM-Harvard/rabbits-leaderboard) | [Citation](https://github.com/BittermanLab/RABBITS#citing)
-🔀 Cross-Care | Assesses biases and real-world knowledge in LLMs, focusing on disease prevalence across demographics. | [cross-care](https://github.com/shan23chen/Cross-Care) | [Citation](https://github.com/shan23chen/cross-care#citing)
+🔀 Cross-Care | Assesses biases and real-world knowledge in LLMs, focusing on disease prevalence across demographics. | [Cross-Care](https://github.com/shan23chen/Cross-Care) | [Citation](https://github.com/shan23chen/cross-care#citing)
 🌐 SDOH | Using LLMs to classify Social Determinants of Health in electronic health records. | [SDOH](https://github.com/AIM-Harvard/SDOH) | [Citation](https://github.com/BittermanLab/SDOH#citing)
 🏥 OncQA | Evaluates the use of LLMs in responding to patient messages to reduce documentation burden. | [OncQA](https://github.com/AIM-Harvard/OncQA) | [Citation](https://github.com/BittermanLab/OncQA#citing)
 
@@ -15,7 +15,7 @@ Name | About | Repo | Cite
 
 Paper | Code | Journal/Conference
 --- | --- | ---
-[Evaluating the Robustness of Medical LLMs with Brand-Generic Swaps]([https://arxiv.org/abs/xxxx](https://arxiv.org/abs/2406.12066) | [Code](https://github.com/BittermanLab/RABBITS) | *EMNLP 2024 (pending)*
+[Evaluating the Robustness of Medical LLMs with Brand-Generic Swaps](https://arxiv.org/abs/2406.12066) | [Code](https://github.com/BittermanLab/RABBITS) | *EMNLP 2024 (pending)*
 
 ### Bias in Medical Language Models
 
