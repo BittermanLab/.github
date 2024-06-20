@@ -15,7 +15,7 @@ Name | About | Repo | Cite
 
 Paper | Code | Journal/Conference
 --- | --- | ---
-[Evaluating the Robustness of Medical LLMs with Brand-Generic Swaps](https://arxiv.org/abs/xxxx) | [Code](https://github.com/BittermanLab/RABBITS) | *EMNLP 2024 (pending)*
+[Evaluating the Robustness of Medical LLMs with Brand-Generic Swaps]([https://arxiv.org/abs/xxxx](https://arxiv.org/abs/2406.12066) | [Code](https://github.com/BittermanLab/RABBITS) | *EMNLP 2024 (pending)*
 
 ### Bias in Medical Language Models
 
