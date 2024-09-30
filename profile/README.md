@@ -15,13 +15,13 @@ Name | About | Repo | Cite
 
 Paper | Code | Journal/Conference
 --- | --- | ---
-[Evaluating the Robustness of Medical LLMs with Brand-Generic Swaps](https://arxiv.org/abs/2406.12066) | [Code](https://github.com/BittermanLab/RABBITS) | *EMNLP 2024 (pending)*
+[Evaluating the Robustness of Medical LLMs with Brand-Generic Swaps](https://arxiv.org/abs/2406.12066) | [Code](https://github.com/BittermanLab/RABBITS) | *EMNLP 2024*
 
 ### Bias in Medical Language Models
 
 Paper | Code | Journal/Conference
 --- | --- | ---
-[Cross-Care: Assessing the Healthcare Implications of Pre-training Data on Language Model Bias](https://arxiv.org/abs/2405.05506) | [Code](https://github.com/shan23chen/cross-care) | *NeurIPS 2024 (pending)*
+[Cross-Care: Assessing the Healthcare Implications of Pre-training Data on Language Model Bias](https://arxiv.org/abs/2405.05506) | [Code](https://github.com/shan23chen/cross-care) | *NeurIPS 2024*
 
 ### AI in Clinical Settings
 
