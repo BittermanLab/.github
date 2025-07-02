@@ -8,7 +8,7 @@ Name | About | Repo | Cite
 🔀 Cross-Care | Assesses biases and real-world knowledge in LLMs, focusing on disease prevalence across demographics. | [Cross-Care](https://github.com/shan23chen/Cross-Care) | [Citation](https://github.com/shan23chen/cross-care#citing)
 🌐 SDOH | Using LLMs to classify Social Determinants of Health in electronic health records. | [SDOH](https://github.com/AIM-Harvard/SDOH) | [Citation](https://github.com/BittermanLab/SDOH#citing)
 🏥 OncQA | Evaluates the use of LLMs in responding to patient messages to reduce documentation burden. | [OncQA](https://github.com/AIM-Harvard/OncQA) | [Citation](https://github.com/BittermanLab/OncQA#citing)
-MedBrowseComp | Evaluates medical information-seeking-oriented deep research and computer use tasks. | [MedBrowseComp](https://huggingface.co/datasets/AIM-Harvard/MedBrowseComp) | [Citation](https://arxiv.org/abs/2505.14963)
+💻 MedBrowseComp | Evaluates medical information-seeking-oriented deep research and computer use tasks. | [MedBrowseComp](https://huggingface.co/datasets/AIM-Harvard/MedBrowseComp) | [Citation](https://arxiv.org/abs/2505.14963)
 
 ## Research by Topic
 
