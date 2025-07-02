@@ -31,5 +31,5 @@ Paper | Code | Journal/Conference
 --- | --- | ---
 [The effect of using a large language model to respond to patient messages](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00060-8/fulltext) | [Code](https://huggingface.co/datasets/shanchen/OncQA) | Lancet Digital Health 2024
 [Large language models to identify social determinants of health in electronic health records](https://www.nature.com/articles/s41746-023-00970-0) | [Code](https://github.com/AIM-Harvard/SDOH) | Nature Digital Medicine 2024
-[The TRIPOD-LLM reporting guideline for studies using large language models](https://www.nature.com/articles/s41591-024-03425-5) | [Website](https://tripod-llm.vercel.app/) | Nature Medicine 2025
+[The TRIPOD-LLM reporting guideline for studies using large language models](https://www.nature.com/articles/s41591-024-03425-5) | [App](https://tripod-llm.vercel.app/) | Nature Medicine 2025
 [The use of large language models to enhance cancer clinical trial educational materials](https://academic.oup.com/jncics/article/9/2/pkaf021/8005863) | [Code](https://github.com/BittermanLab/clinicaltrial-engagement-education) | JNCI Cancer Spectrum 2025
